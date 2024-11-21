@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨  Easy to learn and communicative...<br>📚 Software engineering student at Assis Gurgacz Foundation ...<br>🎯 Java | JavaScript | TypeScript | NestJS</p>
+<p align="left">✨  Easy to learn and communicative...<br>📚 Software engineering student at Assis Gurgacz Foundation ...<br>🎯 Java | JavaScript | TypeScript | NestJS | AngularJS</p>
 
 ###
 
