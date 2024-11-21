@@ -1,37 +1,18 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+![Status](./profile-3d-contrib/profile-night-rainbow.svg)
 
-###
+| [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JoaoHenriqueBedin&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JoaoHenriqueBedin&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
-<p align="left">My name is João Henrique Bedin! ... and I'm a Software Engineer from Cascavel Paraná 🇧🇷</p>
+  <div align="center" >
+<a href="https://skillicons.dev"   >
+  <img src="https://skillicons.dev/icons?i=git,vscode,javascript,typescript,css,html,react,next,tailwind,sass,nodejs,express,docker,figma,github,materialui,postman,styledcomponents,vercel,vite,postgres" />
+</a>
+  <br />
 
-###
+  </div>
 
-<h2 align="left">About me</h2>
+##
 
-###
-
-<p align="left">✨  Easy to learn and communicative...<br>📚 Software engineering student at Assis Gurgacz Foundation ...<br>🎯 Java | JavaScript | TypeScript | NestJS | AngularJS</p>
-
-###
-
-<h2 align="left">I code with</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img height="200" src="https://media1.tenor.com/m/tg_7kkj0tugAAAAd/vinland-saga.gif"  />
-</div>
-
-###
+   <div align="center" >
+     <img src="https://github-profile-trophy.vercel.app/?username=JoaoHenriqueBedin&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
+  </div>
